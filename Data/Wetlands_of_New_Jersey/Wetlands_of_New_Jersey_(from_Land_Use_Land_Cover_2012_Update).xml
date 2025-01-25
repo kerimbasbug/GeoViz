@@ -1,0 +1,479 @@
+<?xml version="1.0" encoding="UTF-8"?><metadata>
+    <idinfo>
+        <citation>
+            <citeinfo>
+                <origin/>
+                <pubdate>20150217</pubdate>
+                <title>Wetlands (from Land Use/Land Cover 2012 Update), Edition 20150217 (Land_lu_2012_wetland) (Web Mercator ArcGIS Online Service)</title>
+                <geoform>vector digital data</geoform>
+                <pubinfo>
+                    <pubplace/>
+                    <publish>NJ Department of Environmental Protection (NJDEP)</publish>
+                </pubinfo>
+                <onlink>https://www.nj.gov/dep/gis/digidownload/zips/OpenData/Land_lu_2012_wetland.zip</onlink>
+            </citeinfo>
+        </citation>
+        <descript>
+            <abstract>The wetlands polygons included in this data set are extracted from the Land Use 2012 layer. Displayed are all polygons that have a TYPE12 code of 'WETLANDS'. While these wetland delineations are not regulatory lines, they represent important resource data in identifying potential wetland areas. The 2012 LU/LC data set is the fifth in a series of land use mapping efforts that was begun in 1986. Revisions and additions to the initial baseline layer were done in subsequent years from imagery captured in 1995/97, 2002, 2007 and 2012. This present 2012 update was created by comparing the 2007 LU/LC layer from NJDEP's Geographic Information Systems (GIS) database to 2012 color infrared (CIR) imagery and delineating and coding areas of change. Work for this data set was done by Aerial Information Systems, Inc., Redlands, CA, under direction of the New Jersey Department of Environmental Protection (NJDEP), Bureau of Geographic Information System (BGIS). LU/LC changes were captured by adding new line work and attribute data for the 2012 land use directly to the base data layer. All 2007 LU/LC polygons and attribute fields remain in this data set, so change analysis for the period 2007-2012 can be undertaken from this one layer. The classification system used was a modified Anderson et al., classification system. An impervious surface (IS) code was also assigned to each LU/LC polygon based on the percentage of impervious surface within each polygon as of 2007. Minimum mapping unit (MMU) is 1 acre. ADVISORY: This metadata file contains information for the 2012 Land Use/Land Cover (LU/LC) data sets, which were mapped by USGS Subbasin (HU8). There are additional reference documents listed in this file under Supplemental Information which should also be examined by users of these data sets. As stated in this metadata record's Use Constraints section, NJDEP makes no representations of any kind, including, but not limited to, the warranties of merchantability or fitness for a particular use, nor are any such warranties to be implied with respect to the digital data layers furnished hereunder. NJDEP assumes no responsibility to maintain them in any manner or form. By downloading this data, user agrees to the data use constraints listed within this metadata record.</abstract>
+            <purpose>The data set will provide information for regulators, planners, and others interested in LU/LC changes, and allow them to quantify those changes over time using GIS. The use of the updated 2012 LU/LC in land use analyses will provide a means of monitoring "the health of the citizens and ecosystems of New Jersey" through the use of diverse applications. This data set is intended to serve as a resource data set. The NJDEP may change the line work or polygon coding based on more in depth analysis and field inspection.</purpose>
+            <supplinf>Several supplemental documents are available that detail the procedures used to create this update and the previous updates done in 1986, 1995, 2002 and 2007. Users of any of these data sets may find it helpful to review these documents before using the data. Each update, including this 2012 data set, is created by editing the previous version, so an understanding of any procedures used in the previous updates may be helpful in interpreting the present version. A detailed discussion of specific procedures used to create this updated data set is included in: https://www.nj.gov/dep/gis/digidownload/metadata/lulc12/update2012.html General comments on previous updates are included in: https://www.nj.gov/dep/gis/digidownload/metadata/lulc12/lureadme.html Note that the original 1986 baseline data layer was composed of two originally separate layers; the LU/LC from the Integrated Terrain Unit Mapping (ITUM) project and the Freshwater Wetlands (FWW) data from the New Jersey Freshwater Wetlands Mapping Project. NJDEP integrated the two themes into one coverage in 1996. The specific process used to develop the original ITUM data set is discussed in https://www.nj.gov/dep/gis/digidownload/metadata/lulc12/itum.html. The process used to integrate the ITUM LU/LC and FWW coverages into one theme, including a discussion of the Upper Wetlands Boundary (UWB) line in the process, is discussed in detail in the https://www.nj.gov/dep/gis/digidownload/metadata/lulc12/fwwinteg.html Also note that included in the baseline LU/LC data set, as part of the original land use layer from the ITUM mapping, were the statewide hydrology boundaries. These hydrologic boundaries were replaced during the 2002 update with boundaries mapped from the 2002 imagery. A description of the land use codes used in this data set is given in https://www.nj.gov/dep/gis/digidownload/metadata/lulc12/anderson2012.html This document is edited version of 'A Land Use and Land Cover Classification System for Use with Remote Sensor Data', U. S. Geological Survey Professional Paper 964, 1976. The COWARDIN86 and CLASS86 codes used to describe the non-tidal wetlands are codes generated during the original FWW mapping program. These Have been removed in the 2012 update. All supplemental documents are available in HTML format as follows: https://www.nj.gov/dep/gis/digidownload/metadata/lulc12/codelist2012.html https://www.nj.gov/dep/gis/digidownload/metadata/lulc12/anderson2012.html https://www.nj.gov/dep/gis/digidownload/metadata/lulc12/update2012.html https://www.nj.gov/dep/gis/digidownload/metadata/lulc12/lureadme.html https://www.nj.gov/dep/gis/digidownload/metadata/lulc12/fww.html https://www.nj.gov/dep/gis/digidownload/metadata/lulc12/itum.html https://www.nj.gov/dep/gis/digidownload/metadata/lulc12/fwwinteg.html</supplinf>
+        </descript>
+        <timeperd>
+            <timeinfo>
+                <sngdate>
+                    <caldate>20120101</caldate>
+                </sngdate>
+            </timeinfo>
+            <current>Ground condition</current>
+        </timeperd>
+        <status>
+            <progress>Complete</progress>
+            <update>Unknown</update>
+        </status>
+        <spdom>
+            <bounding>
+                <westbc>-75.592927</westbc>
+                <eastbc>-73.890363</eastbc>
+                <northbc>41.357565</northbc>
+                <southbc>38.855893</southbc>
+            </bounding>
+        </spdom>
+        <keywords>
+            <theme>
+                <themekt>NJGIN</themekt>
+                <themekey>njfw_lulc</themekey>
+            </theme>
+            <theme>
+                <themekt>User</themekt>
+                <themekey>lulc2007</themekey>
+                <themekey>Land_lu_2012</themekey>
+            </theme>
+            <theme>
+                <themekt>None</themekt>
+                <themekey>water quality</themekey>
+                <themekey>impervious surface</themekey>
+                <themekey>NJDEP</themekey>
+                <themekey>land use</themekey>
+                <themekey>Anderson</themekey>
+                <themekey>wma</themekey>
+                <themekey>wetlands</themekey>
+                <themekey>land cover</themekey>
+                <themekey>change analysis</themekey>
+                <themekey>hydrologic unit 8</themekey>
+                <themekey>watersheds</themekey>
+            </theme>
+            <theme>
+                <themekt>ISO 19115 Topic Category</themekt>
+                <themekey>planningCadastre</themekey>
+            </theme>
+            <theme>
+                <themekt>ISO 19115 Topic Categories</themekt>
+                <themekey>planningCadastre</themekey>
+            </theme>
+            <place>
+                <placekt>None</placekt>
+                <placekey>NJ</placekey>
+                <placekey>New Jersey</placekey>
+            </place>
+            <temporal>
+                <tempkt>None</tempkt>
+                <tempkey>2007</tempkey>
+                <tempkey>2012</tempkey>
+            </temporal>
+        </keywords>
+        <accconst>By obtaining data, users must abide by special use constraints. In most cases, a downloadable shapefile (.zip) version of this layer is also available. Information to download the shapefile can be found in the Distribution Section of this metadata record. This data layer is shown in the NJDEP's NJ-GeoWeb mapping application accessible through the Online Linkage: https://www.nj.gov/dep/gis/geowebsplash.htm</accconst>
+        <useconst>New Jersey Department of Environmental Protection (NJDEP) Data Distribution Agreement. The data provided herein are distributed subject to the following conditions and restrictions: NJDEP assumes no responsibility to maintain them in any manner or form and disclaims any duty or obligation to either maintain availability of or to update the data. Terms of Agreement 1. All data is provided, as is, without any representation or warranty of any kind, implied, expressed or statutory including, but not limited to, the warranties of non-infringement of third party rights, title, merchantability or fitness for a particular use, freedom from computer virus nor are any such warranties to be implied with respect to the digital data layers furnished hereunder. User is responsible for understanding the accuracy limitations of all digital data layers provided herein, as documented in the accompanying cross-reference files (see SUPPLEMENTAL INFORMATION). Any reproduction or manipulation of the above data must ensure that the coordinate reference system remains intact. 2. Digital data received from the NJDEP may not be reproduced or redistributed without all the metadata provided. 3. Any maps, publications, reports, or other documents produced as a result of this project that utilize this digital data will credit the NJDEP's Geographic Information System (GIS) as the source of the data with the following credit/disclaimer: "This (map/publication/report) was developed using New Jersey Department of Environmental Protection Geographic Information System digital data, but this secondary product has not been verified by NJDEP and is not state-authorized or endorsed." 4. NJDEP makes no warranty that digital data are free of Copyright or Trademark claims or other restrictions or limitations on free use or display. Making a copy of this data may be subject to the copyright of trademark laws.</useconst>
+        <ptcontac>
+            <cntinfo>
+                <cntorgp>
+                    <cntorg>NJDEP/BGIS</cntorg>
+                    <cntper>Craig Coutros</cntper>
+                </cntorgp>
+                <cntpos>GIS Specialist</cntpos>
+                <cntaddr>
+                    <addrtype>mailing and physical</addrtype>
+                    <address>401 East State Street, PO Box 420</address>
+                    <city>Trenton</city>
+                    <state>NJ</state>
+                    <postal>08625-0428</postal>
+                </cntaddr>
+                <cntvoice>609-777-0672</cntvoice>
+                <cntfax>609-292-7900</cntfax>
+                <cntemail>gisnet@dep.nj.gov</cntemail>
+            </cntinfo>
+        </ptcontac>
+        <datacred>NJ Department of Environmental Protection (NJDEP), Division of Information Technology (DOIT), Bureau of Geographic Information System (BGIS)</datacred>
+    </idinfo>
+    <dataqual>
+        <attracc>
+            <attraccr>Targeted windshield field surveys done by the contractor during data preparation. NJDEP checked for invalid attribute codes and corrected as needed. Edgematching to adjacent data layers checked through visual inspection of adjacent data sets, and through running topological checks.</attraccr>
+        </attracc>
+        <logic>Polygon topology exists. Data were reviewed for correct topological structure, and for delineation and coding accuracies.</logic>
+        <complete>Data is available for 13 Hydrologic Units - HU8; Subbasins of New Jersey as FINALS.</complete>
+        <posacc>
+            <horizpa>
+                <horizpar>Features mapped from digital imagery having a ground accuracy of +/- four feet.</horizpar>
+            </horizpa>
+        </posacc>
+        <posacc>
+            <vertacc>
+                <vertaccr>NA</vertaccr>
+            </vertacc>
+        </posacc>
+        <lineage>
+            <srcinfo>
+                <srccite>
+                    <citeinfo>
+                        <origin/>
+                        <pubdate>20130301</pubdate>
+                        <title>New Jersey 2012 - 2013 Orthophotography</title>
+                        <geoform>raster digital data</geoform>
+                        <pubinfo>
+                            <pubplace/>
+                            <publish>NJ Office of Information Technology (NJOIT), Office of Geographic Information Systems (OGIS)</publish>
+                        </pubinfo>
+                    </citeinfo>
+                </srccite>
+                <srcscale>2400</srcscale>
+                <typesrc>hardcopy</typesrc>
+                <srctime>
+                    <timeinfo>
+                        <rngdates>
+                            <begdate>20120301</begdate>
+                            <enddate>20130301</enddate>
+                        </rngdates>
+                    </timeinfo>
+                    <srccurr>ground condition</srccurr>
+                </srctime>
+                <srccitea>NJ 2012-13 Orthos</srccitea>
+                <srccontr>Land use/land cover for 2012 was digitized directly from the 2012-13 digital imagery using interactive editing</srccontr>
+            </srcinfo>
+            <procstep>
+                <procdesc>The 2007 land use/land cover data set was displayed over 2012 CIR digital imagery. New line work and codes needed to describe the land use conditions interpreted from the 2012 imagery were added directly to the 2007 layer through interactive editing. Photo-interpretation, interactive editing, field surveys and initial QA/QC done by Aerial Information Systems, Redlands, CA, under the direction of the NJDEP/BGIS. The baseline 2007 data sets edited in this project were prepared by NJDEP/BGIS, from the original 2007 Land Use/Land Cover Update layers. The original layers included both 2007 and 2002 land use codes and linework. The 2002 codes and linework were removed by dissolving on the critical 2007 land use attributes. This produced layers that included only the 2007 codes and linework. It was these dissolved layers that were edited in this present project . Final QA/QC and final data set formatting for the 2012 update layers was done by NJDEP/BGIS. Land use/land cover in 2012 was captured by adding additional line work and codes to the base layer, and filling in specific attribute fields that describe the 2012 land use/land cover ground conditions. All 2007 codes and line work remain in the data set so that change analysis can be performed on all polygons using this one updated data set. The 2007 polygons and codes were updated if it was felt that original mapped lines or land use classifications of any 2007 polygon needed to be modified based on the better 2012 imagery. In addition to the lu/lc codes, an impervious surface estimate was made for every polygon. This was a visual estimate and not a measured value. Data sets were processed and delivered by USGS Subbasin (HU8).</procdesc>
+                <procdate>20150217</procdate>
+            </procstep>
+            <procstep>
+                <procdesc>The feature class containing only the 2012 wetlands polygons was created by reselecting the appropriate attributes and polygons from the Land_lu_2012. All polygons with TYPE12 = 'WETLANDS' were selected and placed in the separate wetlands feature class. The polygons were dissolved on all fields. ACRES was recalculated, ISACRES12 was then also recalculated.</procdesc>
+                <procdate>20150217</procdate>
+            </procstep>
+        </lineage>
+    </dataqual>
+    <spdoinfo>
+        <direct>Vector</direct>
+        <ptvctinf>
+            <sdtsterm>
+                <sdtstype>GT-polygon composed of chains</sdtstype>
+                <ptvctcnt>143206</ptvctcnt>
+            </sdtsterm>
+        </ptvctinf>
+    </spdoinfo>
+    <eainfo xmlns:fn="https://www.w3.org/2005/xpath-functions" xmlns:xdt="https://www.w3.org/2005/xpath-datatypes" xmlns:xs="https://www.w3.org/2001/XMLSchema">
+        <detailed>
+            <enttyp>
+                <enttypl>lulc2012 wetlands</enttypl>
+                <enttypd>land use/land cover 2012 update</enttypd>
+                <enttypds>NJDEP/DOIT/BGIS</enttypds>
+            </enttyp>
+            <attr>
+                <attrlabl>OBJECTID</attrlabl>
+                <attrdef>Internal feature number.</attrdef>
+                <attrdefs>ESRI</attrdefs>
+                <attrdomv>
+                                        					
+                    
+                    <udom>Sequential unique whole numbers that are automatically generated.</udom>
+                                        				
+                
+                </attrdomv>
+            </attr>
+            <attr>
+                <attrlabl>ACRES</attrlabl>
+                <attrdef>Acreage of each polygon, calculated as SHAPE_AREA/43560</attrdef>
+                <attrdefs>ESRI</attrdefs>
+                <attrdomv>
+                                        					
+                    
+                    <udom>Acreage varies for each polygon</udom>
+                                        				
+                
+                </attrdomv>
+            </attr>
+            <attr>
+                <attrlabl>LU12</attrlabl>
+                <attrdef>Numeric 4 digit code representing land use/land cover category, (2012)</attrdef>
+                <attrdefs>Modified Anderson classification system (see Land Use/Land Cover Classification System (2012).html)</attrdefs>
+                <attrdomv>
+                                        					
+                    
+                    <codesetd>
+                                                						
+                        
+                        <codesetn>Modified Anderson land use/land cover classification system</codesetn>
+                                                						
+                        
+                        <codesets>Land Use/Land Cover Classification System (2012).html</codesets>
+                                                					
+                    
+                    </codesetd>
+                                        				
+                
+                </attrdomv>
+            </attr>
+            <attr>
+                <attrlabl>LABEL12</attrlabl>
+                <attrdef>Description of land use/land cover category,  (2012)</attrdef>
+                <attrdefs>Modified Anderson classification system (see Land Use/Land Cover Classification System (2012).html)</attrdefs>
+                <attrdomv>
+                                        					
+                    
+                    <codesetd>
+                                                						
+                        
+                        <codesetn>Modified Anderson land use/land cover classification system</codesetn>
+                                                						
+                        
+                        <codesets>Land Use/Land Cover Classification System (2012).html</codesets>
+                                                					
+                    
+                    </codesetd>
+                                        				
+                
+                </attrdomv>
+            </attr>
+            <attr>
+                <attrlabl>TYPE12</attrlabl>
+                <attrdef>Generalized (Level I) land use/land cover category, (2012)</attrdef>
+                <attrdefs>Modified Anderson classification system (see Land Use/Land Cover Classification System (2012).html)</attrdefs>
+                <attrdomv>
+                                        					
+                    
+                    <codesetd>
+                                                						
+                        
+                        <codesetn>Modified Anderson land use/land cover classification system</codesetn>
+                                                						
+                        
+                        <codesets>Land Use/Land Cover Classification System (2012).html</codesets>
+                                                					
+                    
+                    </codesetd>
+                                        				
+                
+                </attrdomv>
+            </attr>
+            <attr>
+                <attrlabl>IS12</attrlabl>
+                <attrdef>Percent of each land use polygon covered by impervious surface for 2012</attrdef>
+                <attrdefs>NJDEP</attrdefs>
+                <attrdomv>
+                                        					
+                    
+                    <rdom>
+                                                						
+                        
+                        <rdommin>0</rdommin>
+                                                						
+                        
+                        <rdommax>100</rdommax>
+                                                						
+                        
+                        <attrunit>percent</attrunit>
+                                                						
+                        
+                        <attrmres>5</attrmres>
+                                                					
+                    
+                    </rdom>
+                                        				
+                
+                </attrdomv>
+            </attr>
+            <attr>
+                <attrlabl>ISACRES12</attrlabl>
+                <attrdef>Acreage of each polygon covered by impervious surfaces for 2012</attrdef>
+                <attrdefs>Calculated from expression [ACRES] * ([IS12]/100)</attrdefs>
+                <attrdomv>
+                                        					
+                    
+                    <udom>Acreage varies for each polygon</udom>
+                                        				
+                
+                </attrdomv>
+            </attr>
+            <attr>
+                <attrlabl>ISCHANGE12</attrlabl>
+                <attrdef>Flag that identifies whether polygon has undergone a change in estimated impervious surface percent between 2007 and 2012</attrdef>
+                <attrdefs>NJDEP</attrdefs>
+                <attrdomv>
+                                        					
+                    
+                    <edom>
+                                                						
+                        
+                        <edomv>0</edomv>
+                                                						
+                        
+                        <edomvd>Polygon has not undergone a change in estimated impervious surface percent between 2007 and 2012</edomvd>
+                                                						
+                        
+                        <edomvds>NJDEP</edomvds>
+                                                					
+                    
+                    </edom>
+                                        				
+                
+                </attrdomv>
+                <attrdomv>
+                                        					
+                    
+                    <edom>
+                                                						
+                        
+                        <edomv>1</edomv>
+                                                						
+                        
+                        <edomvd>Polygon has undergone a change in estimated impervious surface percent between 2007 and 2012</edomvd>
+                                                						
+                        
+                        <edomvds>NJDEP</edomvds>
+                                                					
+                    
+                    </edom>
+                                        				
+                
+                </attrdomv>
+            </attr>
+            <attr>
+                <attrlabl>SHAPE</attrlabl>
+                <attrdef>Feature geometry.</attrdef>
+                <attrdefs>ESRI</attrdefs>
+                <attrdomv>
+                                        					
+                    
+                    <udom>Coordinates defining the features.</udom>
+                                        				
+                
+                </attrdomv>
+            </attr>
+            <attr>
+                <attrlabl>GLOBALID</attrlabl>
+                <attrdef>Unique Identifier</attrdef>
+                <attrdefs>ESRI</attrdefs>
+                <attrdomv>
+                                        					
+                    
+                    <udom>Unique Value</udom>
+                                        				
+                
+                </attrdomv>
+            </attr>
+            <attr>
+                <attrlabl>SHAPE_Length</attrlabl>
+                <attrdef>Length of feature in internal units.</attrdef>
+                <attrdefs>ESRI</attrdefs>
+                <attrdomv>
+                                        					
+                    
+                    <udom>Positive real numbers that are automatically generated.</udom>
+                                        				
+                
+                </attrdomv>
+            </attr>
+            <attr>
+                <attrlabl>SHAPE_Area</attrlabl>
+                <attrdef>Area of feature in internal units squared.</attrdef>
+                <attrdefs>ESRI</attrdefs>
+                <attrdomv>
+                                        					
+                    
+                    <udom>Positive real numbers that are automatically generated.</udom>
+                                        				
+                
+                </attrdomv>
+            </attr>
+        </detailed>
+        <overview>
+            <eaover>The attributes in this data set describe land use/land cover categories for each polygon from 2007 and 2012. The classification system used is a modified Anderson classification system.  Percent impervious surface for each polygon is also given.</eaover>
+            <eadetcit>none</eadetcit>
+        </overview>
+    </eainfo>
+    <distinfo>
+        <distrib>
+            <cntinfo>
+                <cntorgp>
+                    <cntorg>NJDEP/DOIT/Bureau of GIS</cntorg>
+                    <cntper>GIS Help Desk</cntper>
+                </cntorgp>
+                <cntaddr>
+                    <addrtype>mailing and physical</addrtype>
+                    <address>401 East State Street, PO Box 420</address>
+                    <city>Trenton</city>
+                    <state>NJ</state>
+                    <postal>08625</postal>
+                </cntaddr>
+                <cntvoice>(609) 777-0672</cntvoice>
+                <cntfax>(609) 292-7900</cntfax>
+                <cntemail>gisnet@dep.nj.gov</cntemail>
+            </cntinfo>
+        </distrib>
+        <resdesc>Downloadable Data</resdesc>
+        <distliab>This organization provides the geographic data "as is". This organization makes no guarantee or warranty concerning the accuracy of information contained in the geographic data. Also, this organization makes no warranty either expressed or implied, regarding the condition of the product or its fitness for any particular purpose. The burden for determining fitness for use lies entirely with the user. Although these files have been processed successfully on computers at this organization, no warranty is made by this organization regarding the use of these data on any other system, nor does the fact of distribution constitute or imply any such warranty. See also "Use Constraints" for additional distribution and/or data use requirements.</distliab>
+        <stdorder>
+            <digform>
+                <digtinfo>
+                    <formname>DEP distributes ESRI .SHP and/or GDB. Some data may be NJ GeoWeb "display only" layers.</formname>
+                    <formvern>latest version</formvern>
+                    <filedec>WinZip</filedec>
+                </digtinfo>
+                <digtopt>
+                    <onlinopt>
+                        <computer>
+                            <networka>
+                                <networkr>https://www.nj.gov/dep/gis/geowebsplash.htm</networkr>
+                            </networka>
+                        </computer>
+                        <computer>
+                            <networka>
+                                <networkr>https://www.nj.gov/dep/gis.html</networkr>
+                            </networka>
+                        </computer>
+                    </onlinopt>
+                    <onlinopt>
+                        <computer>
+                            <networka>
+                                <networkr>https://gisdata-njdep.opendata.arcgis.com/</networkr>
+                            </networka>
+                        </computer>
+                    </onlinopt>
+                </digtopt>
+            </digform>
+            <fees>None</fees>
+            <ordering>All available NJDEP public GIS data can be downloaded for free. Some data shown in the NJGeoWeb application may not yet be available for download due to various data or distribution issues. Please email gisnet@dep.nj.gov with any data distribution questions.</ordering>
+        </stdorder>
+    </distinfo>
+    <metainfo>
+        <metd>20150217</metd>
+        <metc>
+            <cntinfo>
+                <cntorgp>
+                    <cntorg>NJDEP/DOIT/BGIS</cntorg>
+                    <cntper>Craig Coutros</cntper>
+                </cntorgp>
+                <cntpos>GIS Specialist</cntpos>
+                <cntaddr>
+                    <addrtype>mailing and physical</addrtype>
+                    <address>401 East State Street, Box 420</address>
+                    <city>Trenton</city>
+                    <state>New Jersey</state>
+                    <postal>08625</postal>
+                </cntaddr>
+                <cntvoice>609-677-0672</cntvoice>
+                <cntfax>609-292-7900</cntfax>
+                <cntemail>gisnet@dep.nj.gov</cntemail>
+            </cntinfo>
+        </metc>
+        <metstdn>FGDC Content Standard for Digital Geospatial Metadata</metstdn>
+        <metstdv>FGDC-STD-001-1998</metstdv>
+        <mettc>local time</mettc>
+    </metainfo>
+</metadata>
